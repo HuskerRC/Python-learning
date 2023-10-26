@@ -1,0 +1,5 @@
+Print ("This tool will calculate Gross Pay")
+Hours = input ("Enter the number of hours worked")
+Pay = input ("Enter the hourly rate")
+Gross = Hours * Pay
+print ("Gross Pay: " + Gross)
